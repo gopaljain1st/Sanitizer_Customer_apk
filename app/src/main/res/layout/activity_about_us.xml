@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUs">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABOUT US"
+        android:textSize="20dp"
+        android:id="@+id/abt"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        ></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/abt"
+        android:textSize="20dp"
+        android:id="@+id/ihp"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        android:text="INDIAN HEALTH PRODUCTS"
+        ></TextView>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_domain_black_24dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/icond"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/ihp"></ImageView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ESTABLISHED IN 2015"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:id="@+id/est"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/icond"></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/est"
+        android:layout_marginTop="5dp"
+        android:textColor="#000"
+        android:id="@+id/estc"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15sp"
+        android:text="Founded in 2015, IHP has been working on developing truly unique and complete line of preventive healthcare products developed, manufactured and evaluated according to the most scientific and rigid standards of modern pharmaceutical products."></TextView>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_visibility_black_24dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/iconv"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/estc"></ImageView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OUR VISION"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:id="@+id/estv"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/iconv"></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/estv"
+        android:layout_marginTop="5dp"
+        android:textColor="#000"
+        android:layout_marginRight="15dp"
+        android:id="@+id/vi"
+        android:layout_marginLeft="15sp"
+        android:text="The company thought about developing the health care products considering the importance of Health Care in India and the health of Indian Citizens, as the Health care had become very expensive and beyond the reach of an average Indian.
+
+The company has a strong focus on R and D which keeps them many steps ahead of the other players in the industry. The FMCG industry has the basic problem of demand and supply for which our manufacturing companies are well equipped with the capacities targeted for the next 5 years."></TextView>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_group_black_24dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/icont"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/vi"></ImageView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OUR VISION"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:id="@+id/estt"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/icont"></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/estt"
+        android:layout_marginTop="5dp"
+        android:textColor="#000"
+        android:layout_marginBottom="15sp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15sp"
+        android:text="IHP has a set of enterprising and visionary leaders with the right volume of experience and technical know-how.
+
+As a result, IHP now has SpringBlissTM, a new range of scented hand sanitizers. Hand Sanitizer is an anti bacterial which instantly kills 99.9 % bacteria. Specially formulated with moisturizers, to keep hands soft, fresh and clean. It is a self-drying gel. This new line has products that are suitable for use by adults as well as children. The products are being rolled out in three different variants available in packaging of 1 ml, 15 ml and 50 ml each. And We are the best in Hand Sanitizer Manufacturer and Supplier in Navi Mumbai"></TextView>
+
+
+</RelativeLayout>
+</ScrollView>

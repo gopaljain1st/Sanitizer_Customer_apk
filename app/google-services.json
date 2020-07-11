@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904225929539",
+    "firebase_url": "https://girdview-b845a.firebaseio.com",
+    "project_id": "girdview-b845a",
+    "storage_bucket": "girdview-b845a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904225929539:android:e976796bbe8bc8945597f6",
+        "android_client_info": {
+          "package_name": "my.springbliss.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904225929539-i30p5ltrc8b8o85rpfbgj8rp0apvp755.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.springbliss.grocery",
+            "certificate_hash": "8c5dec760a7558b096b0e0b02717be9820e74f62"
+          }
+        },
+        {
+          "client_id": "904225929539-4brqnbg33v8gmq2ojdgo66a9cpsso84l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMnFg_lxc3hkQHokibMOE3_yzrrBalUto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904225929539-4brqnbg33v8gmq2ojdgo66a9cpsso84l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

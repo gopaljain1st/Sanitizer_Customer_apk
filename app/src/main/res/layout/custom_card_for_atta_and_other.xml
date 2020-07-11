@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginHorizontal="2dp">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_border"
+        android:layout_marginTop="5dp"
+        android:id="@+id/card1"
+        android:padding="2dp"
+        app:cardCornerRadius="6dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/card_border"
+            >
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="80dp"
+                android:src="@mipmap/ic_launcher"
+                android:paddingLeft="5dp"
+                android:id="@+id/item_image"
+                >
+            </ImageView>
+
+            <TextView
+                android:id="@+id/discount_rate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#009471"
+                android:textColor="#FFF"
+                android:layout_marginLeft="5dp"
+                android:textSize="10dp"
+                android:textStyle="bold"
+                android:padding="1dp"
+                android:paddingHorizontal="3dp"
+                android:layout_below="@+id/item_image"
+                android:text="-Rs.60">
+
+            </TextView>
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/item_image"
+                android:text="Chakki Atta"
+                android:textSize="17dp"
+                android:id="@+id/item_name"
+                android:layout_marginLeft="20dp"
+                android:textColor="#000000"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Low Price Offer 10 kg Packet"
+                android:textSize="15dp"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/item_quantity"
+                android:layout_below="@+id/item_name"
+                android:layout_toRightOf="@+id/item_image"
+
+                android:textStyle="normal|italic">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MRP: \u20B9330"
+                android:textSize="15dp"
+                android:layout_marginLeft="20dp"
+
+                android:id="@+id/item_price_left"
+                android:layout_below="@+id/item_quantity"
+                android:layout_toRightOf="@+id/item_image"
+                android:textStyle="normal|italic"
+               ></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Our Price: \u20B9330"
+                android:textSize="15dp"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/item_price"
+                android:layout_below="@+id/item_price_left"
+                android:layout_toRightOf="@+id/item_image"
+                android:textStyle="normal|italic"
+           ></TextView>
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+              android:src="@drawable/ic_add_circle_outline_black_24dp"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/add_icon"
+                android:layout_below="@+id/item_price_left"
+                android:layout_toRightOf="@+id/item_price"
+               >
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:textSize="15dp"
+                android:inputType="number"
+                android:layout_marginLeft="5dp"
+                android:id="@+id/item_count"
+                android:layout_below="@+id/item_price_left"
+                android:layout_toRightOf="@+id/add_icon"
+                android:textStyle="normal"
+                android:textColor="#000000">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_remove_circle_outline_black_24dp"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/substract_icon"
+                android:layout_below="@+id/item_price_left"
+                android:layout_toRightOf="@+id/add_icon"
+                ></ImageView>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="33dp"
+                android:id="@+id/btn_add"
+                android:drawableStart="@drawable/ic_shopping_cart_black_24dp"
+                android:text="Add"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:background="@drawable/button_background"
+                android:textSize="12sp"
+                android:layout_marginLeft="15dp"
+               android:layout_marginBottom="5dp"
+                android:paddingHorizontal="8dp"
+                android:layout_toRightOf="@+id/substract_icon"
+                android:layout_below="@+id/item_price_left">
+
+            </Button>
+
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

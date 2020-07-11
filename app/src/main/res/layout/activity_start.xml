@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/springblisslogo">
+    </ImageView>
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Already a customer? Sign in"
+        android:background="@drawable/box"
+        android:layout_marginHorizontal="18dp"
+        android:layout_marginTop="50dp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="15dp">
+
+    </Button>
+    <Button
+        android:id="@+id/register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New User? Create an account"
+        android:background="@drawable/box"
+        android:layout_marginHorizontal="18dp"
+        android:layout_marginTop="40dp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="15dp">
+
+    </Button>
+    <Button
+        android:id="@+id/skip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Skip sign in"
+        android:background="@drawable/box"
+        android:layout_marginHorizontal="18dp"
+        android:layout_marginTop="40dp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="15dp">
+    </Button>
+</LinearLayout>

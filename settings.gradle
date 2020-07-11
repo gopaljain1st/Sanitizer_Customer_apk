@@ -1,0 +1,2 @@
+rootProject.name='GirdView'
+include ':app'

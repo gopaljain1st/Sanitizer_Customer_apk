@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_nav"
+        android:title="Search"/>
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+        android:iconTintMode="add"
+        android:title="Cart" />
+    <item android:title="MY Account">
+<menu>
+    <item
+        android:id="@+id/Myprofile"
+        android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+        android:iconTintMode="add"
+        android:title="My Profile" />
+    <item
+        android:id="@+id/My_order"
+        android:icon="@drawable/search_nav"
+        android:title="Your Order"/>
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+        android:iconTintMode="add"
+        android:title="Contact Us" />
+
+</menu>
+    </item>
+</menu>
