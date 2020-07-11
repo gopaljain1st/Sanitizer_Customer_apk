@@ -29,10 +29,16 @@ import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
+import com.android.volley.toolbox.HurlStack;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 import my.springbliss.grocery.R;
+import my.springbliss.grocery.fcm.ServerKey;
+
 import com.google.gson.Gson;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -55,6 +61,7 @@ public class OrderActivity extends AppCompatActivity {
     RelativeLayout addres,deliveryttimees;
     boolean flag=true;
     String new_Address;
+    String sellerId,body;
     Myhelper myhelper;
     //String notification="https://digitalcafe.us/springbliss/sendMail.php";
     @SuppressLint("WrongConstant")
@@ -108,6 +115,7 @@ public class OrderActivity extends AppCompatActivity {
             String selling_price =c.getString(3);
             int qty = c.getInt(4);
             String seller_id=c.getString(5);
+            sellerId=seller_id;
             String item_image=c.getString(6);
             int id = Integer.parseInt(c.getString(7));
             String weight=c.getString(8);
@@ -213,12 +221,77 @@ public class OrderActivity extends AppCompatActivity {
                             @Override
                             public void onResponse(String response)
                             {
-                                // Log.d("responseorder",response);
-                                //Log.d("jsondata",jsonData);
-                                // pd.dismiss();
-                                Toast.makeText(OrderActivity.this, "Order Succesfully Placed"+response, Toast.LENGTH_SHORT).show();
-                                //Log.d("response", "response" + response);
                                 pd.dismiss();
+                                final ProgressDialog pd = new ProgressDialog(OrderActivity.this);
+                                pd.setTitle("Sanitizer");
+                                pd.setMessage("Please Wait...");
+                                pd.show();
+                                String url = "https://digitalcafe.us/springbliss/sendNotification.php";
+                                StringRequest stringRequest = new StringRequest(Request.Method.POST, url, new Response.Listener<String>() {
+                                    @Override
+                                    public void onResponse(String response)
+                                    {
+
+                                        pd.dismiss();
+                                        if(response.equals("something wrong"))
+                                        {
+                                            new androidx.appcompat.app.AlertDialog.Builder(OrderActivity.this).setTitle("Order Placed").setMessage("Order Successfully Placed And Notification Not Sent").setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                                                @Override
+                                                public void onClick(DialogInterface dialog, int which) {
+
+                                                }
+                                            }).show();
+                                        } else
+                                        {
+                                            JSONObject jsonObject = null;
+                                            try {
+                                                jsonObject = new JSONObject(response);
+                                                String sucess = jsonObject.getString("success");
+                                                if(sucess.equals("1"))
+                                                {
+                                                    new androidx.appcompat.app.AlertDialog.Builder(OrderActivity.this).setTitle("Order Placed").setMessage("Order Successfully Placed And Notification Has Been Sent").setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                                                        @Override
+                                                        public void onClick(DialogInterface dialog, int which) {
+
+                                                        }
+                                                    }).show();
+                                                } else
+                                                {
+                                                    new androidx.appcompat.app.AlertDialog.Builder(OrderActivity.this).setTitle("Order Placed").setMessage("Order Successfully Placed And Notification Not Sent").setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                                                        @Override
+                                                        public void onClick(DialogInterface dialog, int which) {
+
+                                                        }
+                                                    }).show();
+                                                }    } catch (JSONException e) {
+                                                e.printStackTrace();
+                                            }
+                                        }
+                                    }
+                                }, new Response.ErrorListener() {
+                                    @Override
+                                    public void onErrorResponse(VolleyError error) {
+                                        pd.dismiss();
+                                        Toast.makeText(OrderActivity.this, "" + error, Toast.LENGTH_SHORT).show();
+                                    }
+                                }) {
+                                    @Override
+                                    protected Map<String, String> getParams() throws AuthFailureError {
+                                        Map<String, String> map = new HashMap<>();
+                                        map.put("serverKey", ServerKey.SELLER_KEY);
+                                        map.put("table","seller");
+                                        map.put("userId",sellerId);
+                                        map.put("title","Congratulation You Reiceved New Order");
+                                        body="Order Id : "+orderId+"\nOrder Date : "+formattedDate+
+                                                "\nOrder Time : "+formattime+"\nOrder By : "+shared.getString("name","")+""+"\nNo Of Items : "+count
+                                                +"\nTotal Amount : "+totalPrice;
+                                        map.put("body",body);
+                                        return map;
+                                    }
+                                };
+                                RequestQueue requestQueue = Volley.newRequestQueue(OrderActivity.this, new HurlStack());
+                                requestQueue.add(stringRequest);
+
                                 SQLiteDatabase database=myhelper.getWritableDatabase();
                                 database.execSQL("delete from  SPRINGBLISS");
                                 database.close();
