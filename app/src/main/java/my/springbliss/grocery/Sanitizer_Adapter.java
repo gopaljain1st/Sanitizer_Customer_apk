@@ -1,5 +1,6 @@
 package my.springbliss.grocery;
 
+import android.app.Activity;
 import android.content.ContentValues;
 import android.content.Context;
 import android.content.Intent;
@@ -85,6 +86,7 @@ public class Sanitizer_Adapter extends RecyclerView.Adapter<Sanitizer_Adapter.Gr
         holder.item_left_price.setText("MRP: \u20B9" + attaAndOtherModel.getItemLeftPrice());
         holder.item_left_price.setPaintFlags(holder.item_left_price.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
 
+
             holder.item_name.setText(attaAndOtherModel.getItemName());
 
             double mrp = Double.parseDouble(attaAndOtherModel.getItemLeftPrice());
@@ -98,7 +100,8 @@ public class Sanitizer_Adapter extends RecyclerView.Adapter<Sanitizer_Adapter.Gr
         Picasso.with(context).load(attaAndOtherModel.getItemImage()).resize(400, 400).centerCrop().into(holder.item_image);
         holder.add.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View v)
+            {
                 if (holder.add.getText() == "Added") {
                    Toast.makeText(context, "Item Already Added", Toast.LENGTH_SHORT).show();
                 } else {
@@ -121,6 +124,8 @@ public class Sanitizer_Adapter extends RecyclerView.Adapter<Sanitizer_Adapter.Gr
                             database.insert("SPRINGBLISS", null, values);
                             database.close();
                             holder.add.setText("Added");
+                            //context.startActivity(new Intent(context,Sanitizer.class));
+                            //((Activity)context).finish();
                         }
                         else
                             Toast.makeText(context, "Item Already Added", Toast.LENGTH_SHORT).show();

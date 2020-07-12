@@ -1,6 +1,6 @@
 package my.springbliss.grocery;
 
-public class SanitizerModel {
+public class                                                                                    SanitizerModel {
     String itemImage;
     String itemName,itemQuantity,itemLeftPrice,itemPrice,item_desc,item_id,seller_id;
 
