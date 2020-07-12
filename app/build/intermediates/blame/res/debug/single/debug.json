@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_simple_grow.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\simple_grow.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_base_slide_left_out.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\base_slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_springblisslogo.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\springblisslogo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inventive.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\inventive.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slider2s.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\slider2s.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_base_slide_right_in.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\base_slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_logo_animation_back.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\logo_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_joinbtn.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\joinbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark_black.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_bookmark_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_black.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_call_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_to_order.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\item_to_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_step3.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\step3.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_shrink_color.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\shrink_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_badge_icon_layout.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\badge_icon_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_outline_black.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_lock_outline_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_atta_and_other.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_atta_and_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_minus_black.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_minus_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_person_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_visibility_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_visibility_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_group_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\raw_loading.json.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\raw\\loading.json"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_circle_outline_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_remove_circle_outline_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_step2.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\step2.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_step4.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\step4.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_order.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\order.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_drawer_menu.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\menu\\nav_drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_app_name_animation.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\app_name_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_allproduct.jpg.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\allproduct.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_item_list.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\order_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_circle_outline_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_add_circle_outline_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_step1.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\step1.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_howtouser.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_howtouser.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_city_black.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_location_city_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_description.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-hdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handwash1.jpeg.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\handwash1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_myorder.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_myorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_myorder_list.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\myorder_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_left.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_up_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_right.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_up_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sanitizer.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\sanitizer.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scre2.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\scre2.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_right.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_border.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\card_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_myorder_item_list.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_myorder_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_activity.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\order_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-mdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_step6.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\step6.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_indeterminate_check_box_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_indeterminate_check_box_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_drawer_layout.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\nav_drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_face_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_face_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_domain_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_domain_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-hdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_step5.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\step5.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_grocery_store_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_local_grocery_store_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_card_for_atta_and_other.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\custom_card_for_atta_and_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_default_out_anim.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\default_out_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_action_bar_notification_icon.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\action_bar_notification_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_check_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_to_middle.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\to_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_donot_move.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\donot_move.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart_for_nav.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\cart_for_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_up.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_layout.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\custom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xhdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scre1.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\scre1.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_for_nav.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\search_for_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slider4s.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\slider4s.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_pro_animation.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\pro_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_from_middle.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\from_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_pro_animation_back.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\pro_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box1.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\box1.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_grow_color.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\grow_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\box.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping_cart.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-mdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping_cart_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_app_name_animation_back.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\app_name_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_custome_item.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\custome_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_logo_animation.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\logo_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_home_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_black.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_delete_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\img.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_header_menu.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\menu\\nav_header_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_for_cart.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\menu\\menu_for_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_shopping_cart_black_24dp.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_add_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\ic_email_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_up.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_nav.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\search_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slider3s.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\drawable\\slider3s.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\data\\Sanitizer\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    }
+]

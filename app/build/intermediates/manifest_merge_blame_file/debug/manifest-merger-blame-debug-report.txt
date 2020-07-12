@@ -1,0 +1,210 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="my.springbliss.grocery"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:6:5-79
+11-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+13-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:24:5-68
+13-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+14-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:26:5-82
+14-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:26:22-79
+15
+16    <application
+16-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:9:5-48:19
+17        android:allowBackup="true"
+17-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:10:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\32f4f944aca9213f676acf60269714d3\core-1.1.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+19-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:11:9-35
+20        android:hardwareAccelerated="false"
+20-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:12:9-44
+21        android:icon="@mipmap/logo"
+21-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:13:9-36
+22        android:label="@string/app_name"
+22-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:14:9-41
+23        android:largeHeap="true"
+23-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:15:9-33
+24        android:roundIcon="@mipmap/logo_round"
+24-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:16:9-47
+25        android:supportsRtl="true"
+25-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:17:9-35
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:18:9-40
+27        <activity
+27-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:20:9-98
+28            android:name="my.springbliss.grocery.HowToUse"
+28-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:20:19-43
+29            android:parentActivityName="my.springbliss.grocery.MainActivity" />
+29-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:20:44-86
+30        <activity android:name="my.springbliss.grocery.AboutUs" />
+30-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:21:9-45
+30-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:21:19-42
+31        <activity
+31-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:22:9-24:58
+32            android:name="my.springbliss.grocery.OrderActivity"
+32-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:23:13-42
+33            android:parentActivityName="my.springbliss.grocery.CartActivity" />
+33-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:24:13-55
+34        <activity android:name="my.springbliss.grocery.MyorderItemList" />
+34-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:25:9-53
+34-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:25:19-50
+35        <activity android:name="my.springbliss.grocery.MyorderActivity" />
+35-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:26:9-53
+35-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:26:19-50
+36        <activity android:name="my.springbliss.grocery.SplashScreen" >
+36-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:27:9-33:20
+36-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:27:19-47
+37            <intent-filter>
+37-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:28:13-32:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:29:17-69
+38-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:29:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:31:17-77
+40-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:31:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:34:9-36:66
+44            android:name="my.springbliss.grocery.StartActivity"
+44-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:35:13-42
+45            android:theme="@style/Theme.AppCompat.NoActionBar" />
+45-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:36:13-63
+46        <activity android:name="my.springbliss.grocery.RegisterActivity" />
+46-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:37:9-54
+46-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:37:19-51
+47        <activity android:name="my.springbliss.grocery.LoginActivity" />
+47-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:38:9-51
+47-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:38:19-48
+48        <activity android:name="my.springbliss.grocery.DescriptionActivity" />
+48-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:39:9-57
+48-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:39:19-54
+49        <activity android:name="my.springbliss.grocery.HandWash" />
+49-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:40:9-46
+49-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:40:19-43
+50        <activity android:name="my.springbliss.grocery.Sanitizer" />
+50-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:41:9-47
+50-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:41:19-44
+51        <activity
+51-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:42:9-44:58
+52            android:name="my.springbliss.grocery.CartActivity"
+52-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:43:13-41
+53            android:parentActivityName="my.springbliss.grocery.MainActivity" />
+53-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:44:13-55
+54        <activity
+54-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:45:9-47:66
+55            android:name="my.springbliss.grocery.MainActivity"
+55-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:46:13-41
+56            android:theme="@style/Theme.AppCompat.NoActionBar" />
+56-->C:\Users\hp\Desktop\data\Sanitizer\app\src\main\AndroidManifest.xml:47:13-63
+57        <!--
+58             FirebaseMessagingService performs security checks at runtime,
+59             no need for explicit permissions despite exported="true"
+60        -->
+61        <service
+61-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ce4b3bc8fdad392101f0bc7cda201a8f\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:28:9-34:19
+62            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+62-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ce4b3bc8fdad392101f0bc7cda201a8f\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:29:13-82
+63            android:exported="true" >
+63-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ce4b3bc8fdad392101f0bc7cda201a8f\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:30:13-36
+64            <intent-filter android:priority="-500" >
+64-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ce4b3bc8fdad392101f0bc7cda201a8f\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:31:13-33:29
+64-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ce4b3bc8fdad392101f0bc7cda201a8f\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:31:28-51
+65                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+65-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ce4b3bc8fdad392101f0bc7cda201a8f\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:32:17-78
+65-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ce4b3bc8fdad392101f0bc7cda201a8f\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:32:25-75
+66            </intent-filter>
+67        </service>
+68        <service
+68-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:29:9-35:19
+69            android:name="com.google.firebase.components.ComponentDiscoveryService"
+69-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:30:13-84
+70            android:exported="false" >
+70-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:31:13-37
+71            <meta-data
+71-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:32:13-34:85
+72                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+72-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:33:17-96
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:34:17-82
+74        </service>
+75
+76        <receiver
+76-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:37:9-44:20
+77            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+77-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:38:13-78
+78            android:exported="true"
+78-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:39:13-36
+79            android:permission="com.google.android.c2dm.permission.SEND" >
+79-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:40:13-73
+80            <intent-filter>
+80-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:41:13-43:29
+81                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+81-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:42:17-81
+81-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:42:25-78
+82            </intent-filter>
+83        </receiver>
+84        <!--
+85             FirebaseInstanceIdService performs security checks at runtime,
+86             no need for explicit permissions despite exported="true"
+87        -->
+88        <service
+88-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:50:9-56:19
+89            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+89-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:51:13-77
+90            android:exported="true" >
+90-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:52:13-36
+91            <intent-filter android:priority="-500" >
+91-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:53:13-55:29
+91-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:53:28-51
+92                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+92-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:54:17-80
+92-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\13148ec912f0620be501aa14638da158\jetified-firebase-iid-17.0.4\AndroidManifest.xml:54:25-77
+93            </intent-filter>
+94        </service>
+95
+96        <provider
+96-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f034214f06c93f121f435223ccc7ef43\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+97            android:name="com.google.firebase.provider.FirebaseInitProvider"
+97-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f034214f06c93f121f435223ccc7ef43\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+98            android:authorities="my.springbliss.grocery.firebaseinitprovider"
+98-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f034214f06c93f121f435223ccc7ef43\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+99            android:exported="false"
+99-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f034214f06c93f121f435223ccc7ef43\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+100            android:initOrder="100" />
+100-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f034214f06c93f121f435223ccc7ef43\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+101
+102        <activity
+102-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\677be4ae67a669f1894b2ce61b871ea9\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+103            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+103-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\677be4ae67a669f1894b2ce61b871ea9\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+104            android:exported="false"
+104-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\677be4ae67a669f1894b2ce61b871ea9\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+105            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+105-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\677be4ae67a669f1894b2ce61b871ea9\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+106
+107        <meta-data
+107-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f48e259d80049a1871a52aa8e9d5bca3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+108            android:name="com.google.android.gms.version"
+108-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f48e259d80049a1871a52aa8e9d5bca3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+109            android:value="@integer/google_play_services_version" />
+109-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f48e259d80049a1871a52aa8e9d5bca3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+110    </application>
+111
+112</manifest>
